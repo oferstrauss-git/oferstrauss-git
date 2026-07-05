@@ -21,7 +21,7 @@ performance changes over time using CTEs and window functions.
 
 ---
 
-### 2. 🐍 SaaS Churn & Revenue Analysis — Python
+### 2. 🐍 SaaS Churn & Revenue Analysis — Python - in progress
 Exploratory analysis of customer churn and revenue trends including
 MRR/ARR calculations, cohort heatmaps, and a revenue waterfall chart.
 
@@ -31,7 +31,7 @@ MRR/ARR calculations, cohort heatmaps, and a revenue waterfall chart.
 
 ---
 
-### 3. 📈 Ad-Tech Performance Dashboard — Tableau
+### 3. 📈 Ad-Tech Performance Dashboard — Tableau - in progress
 Interactive Tableau dashboard showing campaign efficiency across
 countries and seller tiers, including CTR, CVR, CPC, and ROAS breakdowns.
 
@@ -41,7 +41,7 @@ countries and seller tiers, including CTR, CVR, CPC, and ROAS breakdowns.
 
 ---
 
-### 4. 🔁 Full Funnel Ad Analytics — End to End
+### 4. 🔁 Full Funnel Ad Analytics — End to End - in progress
 Flagship project: synthetic ad dataset generated in Python, analyzed
 in SQL, and visualized in Tableau — demonstrating the full analyst workflow
 from raw data to business insight.

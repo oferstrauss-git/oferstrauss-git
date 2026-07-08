@@ -12,12 +12,12 @@ that turn raw ad and retail data into business decisions.
 
 ### 1. 📊 Ad Campaign Performance — SQL Analysis
 End-to-end SQL analysis of a simulated ad-tech retail platform.
-Covers campaign KPIs, funnel analysis, rolling ROAS, cohort retention, and
+Covers campaign KPIs, funnel analysis, rolling ROAS, cohort retention and
 performance changes over time using CTEs and window functions.
 
 **Tools:** MySQL · Advanced SQL (CTEs, Window Functions, Subqueries)
 
-🔗 [View Project](https://github.com/your-username/ad-campaign-sql-analysis)
+🔗 [View Project](https://github.com/oferstrauss-git/ad-campaign-sql-analysis)
 
 ---
 
@@ -37,7 +37,8 @@ countries and seller tiers, including CTR, CVR, CPC, and ROAS breakdowns.
 
 **Tools:** Tableau Public
 
-🔗 [View Dashboard](https://public.tableau.com/your-profile)
+🔗 [View Dashboards](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/PerformanceOverviewDashboard?publish=yes)
+🔗 [View Dashboards](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes)
 
 ---
 

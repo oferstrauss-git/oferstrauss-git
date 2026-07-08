@@ -45,7 +45,9 @@ across 10 countries and 400 campaigns.
 - [Executive Pulse Overview](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes) — 
   Operational monitoring with trend lines and dynamic filters
 
-[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-portfolio/main/tableau/performance_dashboard_preview.png)](your-tableau-public-url-1)
+[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-analysis/main/tableau/performance_dashboard_preview.png)]
+[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-analysis/main/tableau/behaviour_dashboard_preview.png)]
+[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-analysis/main/tableau/pulse_dashboard_preview.png)]
 
 🔗 [View Full Tableau Repository](https://github.com/oferstrauss-git/tableau-analysis)
 ---

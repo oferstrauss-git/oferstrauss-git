@@ -31,25 +31,25 @@ MRR/ARR calculations, cohort heatmaps, and a revenue waterfall chart.
 
 ---
 
-### 3. 📈 Ad-Tech Performance Dashboard — Tableau
+### 3. 📈 Ad-Tech Performance Dashboards — Tableau
 
-Two interactive dashboards built on a synthetic ad-tech retail dataset
-covering campaign efficiency, Pareto analysis, and operational monitoring
-across 10 countries and 400 campaigns.
+Two interactive Tableau dashboards built on a synthetic ad-tech retail
+dataset — covering campaign efficiency, Pareto analysis, quadrant
+analysis, and operational monitoring.
 
-**Tools:** Tableau Public
+**Tools:** Tableau Public · Parameters · LOD Expressions · 
+Table Calculations
 
 **Dashboards:**
-- [Ad Campaign Performance Dashboard](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/PerformanceOverviewDashboard?publish=yes) — 
-  KPI analysis, scatter plot quadrant analysis, Pareto insights
-- [Executive Pulse Overview](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes) — 
+- [Ad Campaign Performance Analysis](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/CampaignBehaviourDashboard?publish=yes) —
+  KPI trends, scatter quadrant analysis, Pareto insights (2 pages)
+- [Executive Pulse Overview](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes) —
   Operational monitoring with trend lines and dynamic filters
 
-[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-analysis/main/tableau/performance_dashboard_preview.png)]
-[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-analysis/main/tableau/behaviour_dashboard_preview.png)]
-[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-analysis/main/tableau/pulse_dashboard_preview.png)]
+[![Performance Dashboard Preview](https://raw.githubusercontent.com/oferstrauss-git/ad-campaign-tableau-analysis/main/images/performance_overview.png)](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/CampaignBehaviourDashboard?publish=yes)
 
-🔗 [View Full Tableau Repository](https://github.com/oferstrauss-git/tableau-analysis)
+🔗 [View Full Tableau Repository](https://github.com/oferstrauss-git/ad-campaign-tableau-analysis)
+
 ---
 
 ### 4. 🔁 Full Funnel Ad Analytics — End to End - in progress

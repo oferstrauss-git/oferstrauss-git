@@ -47,7 +47,7 @@ across 10 countries and 400 campaigns.
 
 [![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-portfolio/main/tableau/performance_dashboard_preview.png)](your-tableau-public-url-1)
 
-🔗 [View Full Tableau Repository](https://github.com/oferstrauss-git/tableau-portfolio)
+🔗 [View Full Tableau Repository](https://github.com/oferstrauss-git/tableau-analysis)
 ---
 
 ### 4. 🔁 Full Funnel Ad Analytics — End to End - in progress

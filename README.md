@@ -31,15 +31,23 @@ MRR/ARR calculations, cohort heatmaps, and a revenue waterfall chart.
 
 ---
 
-### 3. 📈 Ad-Tech Performance Dashboard — Tableau - in progress
-Interactive Tableau dashboard showing campaign efficiency across
-countries and seller tiers, including CTR, CVR, CPC, and ROAS breakdowns.
+### 3. 📈 Ad-Tech Performance Dashboard — Tableau
+
+Two interactive dashboards built on a synthetic ad-tech retail dataset
+covering campaign efficiency, Pareto analysis, and operational monitoring
+across 10 countries and 400 campaigns.
 
 **Tools:** Tableau Public
 
-🔗 [View Dashboards](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/PerformanceOverviewDashboard?publish=yes)
-🔗 [View Dashboards](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes)
+**Dashboards:**
+- [Ad Campaign Performance Dashboard](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/PerformanceOverviewDashboard?publish=yes) — 
+  KPI analysis, scatter plot quadrant analysis, Pareto insights
+- [Executive Pulse Overview](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes) — 
+  Operational monitoring with trend lines and dynamic filters
 
+[![Performance Dashboard](https://raw.githubusercontent.com/oferstrauss-git/tableau-portfolio/main/tableau/performance_dashboard_preview.png)](your-tableau-public-url-1)
+
+🔗 [View Full Tableau Repository](https://github.com/oferstrauss-git/tableau-portfolio)
 ---
 
 ### 4. 🔁 Full Funnel Ad Analytics — End to End - in progress

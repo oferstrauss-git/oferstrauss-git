@@ -46,7 +46,7 @@ Table Calculations
 - [Executive Pulse Overview](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes) —
   Operational monitoring with trend lines and dynamic filters
 
-[![Performance Dashboard Preview](https://raw.githubusercontent.com/oferstrauss-git/ad-campaign-tableau-analysis/main/images/performance_overview.png)](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/CampaignBehaviourDashboard?publish=yes)
+[![Executive Pulse Preview](https://raw.githubusercontent.com/oferstrauss-git/ad-campaign-tableau-analysis/main/images/executive_pulse.png)](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns2/ExecutivePulseOverview?publish=yes)
 
 🔗 [View Full Tableau Repository](https://github.com/oferstrauss-git/ad-campaign-tableau-analysis)
 

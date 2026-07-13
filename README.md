@@ -27,11 +27,12 @@ telco-churn-analysis
 
 Exploratory data analysis of 7,032 telecom customers to understand what drives churn. The headline finding: contract type, tenure, and a handful of support services explain most of the variation — and the first 12 months are where the business either wins or loses a customer.
 
-
 Overall churn rate: 26.6%
 Month-to-month customers churn at 15x the rate of two-year customers
-Customers without OnlineSecurity or TechSupport churn at ~3x the rate of those who have them
+Protection/support services stack: churn falls from 56.7% (no services) to 5.3% (all four) — and the 23% of customers with none produce 41% of all churn
 Churned customers pay $13/month more on average — a clear price ceiling effect
+
+[![Telco_Churn_Preview](https://raw.githubusercontent.com/oferstrauss-git/telco_churn_analysis/main/images/churn_by_segment.png)]
 
 
 **Tools:**  Python · Pandas · Matplotlib · Seaborn · Google Colab

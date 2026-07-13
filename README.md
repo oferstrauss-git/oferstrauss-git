@@ -32,7 +32,7 @@ Month-to-month customers churn at 15x the rate of two-year customers
 Protection/support services stack: churn falls from 56.7% (no services) to 5.3% (all four) — and the 23% of customers with none produce 41% of all churn
 Churned customers pay $13/month more on average — a clear price ceiling effect
 
-[![Telco_Churn_Preview](https://raw.githubusercontent.com/oferstrauss-git/telco_churn_analysis/main/images/churn_by_segment.png)]
+![Churn by Segment](https://raw.githubusercontent.com/oferstrauss-git/telco-churn-analysis/main/images/churn_by_segment.png)
 
 
 **Tools:**  Python · Pandas · Matplotlib · Seaborn · Google Colab

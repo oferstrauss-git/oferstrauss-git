@@ -21,13 +21,22 @@ performance changes over time using CTEs and window functions.
 
 ---
 
-### 2. 🐍 SaaS Churn & Revenue Analysis — Python - in progress
-Exploratory analysis of customer churn and revenue trends including
-MRR/ARR calculations, cohort heatmaps, and a revenue waterfall chart.
+### 2. Telco Customer Churn — Python / Pandas Analysis
 
-**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Google Colab
+telco-churn-analysis
 
-🔗 [View Project](https://github.com/your-username/saas-churn-python)
+Exploratory data analysis of 7,032 telecom customers to understand what drives churn. The headline finding: contract type, tenure, and a handful of support services explain most of the variation — and the first 12 months are where the business either wins or loses a customer.
+
+
+Overall churn rate: 26.6%
+Month-to-month customers churn at 15x the rate of two-year customers
+Customers without OnlineSecurity or TechSupport churn at ~3x the rate of those who have them
+Churned customers pay $13/month more on average — a clear price ceiling effect
+
+
+**Tools:**  Python · Pandas · Matplotlib · Seaborn · Google Colab
+
+🔗 [View Project](https://github.com/oferstrauss-git/telco-churn-analysis)
 
 ---
 
